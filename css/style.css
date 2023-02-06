@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+table{
+    border: 2px solid red;
+    height: auto;
+    padding: 20px;
+    background-color: rgb(27, 142, 243);
+    text-transform: capitalize;
+    /* border-radius: 50px; */
+  
+}
+td{
+    /* border: 1px solid rgb(0, 111, 128); */
+    padding: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border: 2px solid;
+}
+tr{
+    /* border: 1px solid rgb(128, 21, 0); */
+    /* background-color: aqua; */
+    /* border: 2px solid; */
+}
+/* button{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    align-items: center;
+} */

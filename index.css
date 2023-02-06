@@ -1,0 +1,82 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    /* background-image: url('cvr1.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-attachment:scroll;
+     */
+   /* box-sizing: border-box;
+} */
+}
+img{
+    height: 100%;
+    width: 100%;
+    opacity: 0.4;
+    position: relative;
+    
+}
+#panel{
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+a{
+    color: black;
+    padding: 12px;
+    /* text-align: left; */
+    box-shadow: 10px 10px 10px;
+    text-decoration: none;
+  
+}
+h1{
+    position:absolute;
+    top: 30%;
+    left: 40%;cursor: pointer;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+}
+.ad{
+    position: absolute;
+    bottom: 300px;
+    left: 150px;
+    
+   
+}
+address{
+  position: relative;  
+  bottom: 330px;
+  left: 140px;
+  color: black;
+  padding: 12px;
+  /* text-align: left; */
+  box-shadow: 10px 10px 10px;
+  width: 100px;
+  
+}
+.cn{
+    position: absolute;
+   right:50% ;
+    bottom: 280px;
+    
+}
+.e{
+    position: absolute;
+    bottom: 280px;
+right: 200px;
+}
+.about{
+    position: absolute;
+    bottom: 30px;
+    width: 500px;
+    left: 30%;
+    background-color: aqua;
+    border: 1px dotted;
+    border-radius: 5px;
+}
+footer{
+    position: absolute;
+    bottom:-20px;
+   right: 0;
+}
